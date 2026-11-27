@@ -1,0 +1,10 @@
+customer_id,customer_name,age,city,purchase_amount,payment_method
+101,Ram,25.0,Kathmandu,1500.0,Cash
+102,Sita,30.0,Pokhara,2000.0,Card
+103,Hari,28.0,Kathmandu,1800.0,Cash
+104,Unknown,28.0,Butwal,1900.0,Online
+105,Gita,35.0,Pokhara,3000.0,Card
+107,Mina,22.0,Butwal,1200.0,Cash
+108,Ravi,28.0,Kathmandu,2500.0,Online
+109,Unknown,40.0,Pokhara,4000.0,Card
+110,Anita,27.0,Kathmandu,1700.0,Cash
